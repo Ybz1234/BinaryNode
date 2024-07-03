@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\obj\Debug\BinaryNode.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\obj\Debug\BinaryNode.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\bin\Debug\BinaryNode.exe.config
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\bin\Debug\BinaryNode.exe
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\bin\Debug\BinaryNode.pdb
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\obj\Debug\BinaryNode.exe
+C:\Users\jonat\source\repos\BinaryNode\BinaryNode\obj\Debug\BinaryNode.pdb
